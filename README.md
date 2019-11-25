@@ -1,7 +1,7 @@
-TypeScript React Select Demo
+TypeScript React Select Clear Selected Value Demo
 =================================
 
-既可以输入又可以选择的Select组件。
+这里有个坑：必须把selected value设为`null`而不是`undefined`才能清除
 
 ```
 npm install
